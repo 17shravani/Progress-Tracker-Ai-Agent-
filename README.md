@@ -1,5 +1,8 @@
 # EduPilot AI — Autonomous Academic Intelligence & Student Success Platform
 
+![Uploading image.png…]()
+
+
 [![EduPilot AI](https://img.shields.io/badge/EduPilot-v2.4_Enterprise-6366f1.svg)](https://github.com/17shravani/Academic-Progress-Tracker)
 [![Multi-Agent Fleet](https://img.shields.io/badge/Agents-11_Autonomous_Nodes-10b981.svg)](https://github.com/17shravani/Academic-Progress-Tracker)
 [![Deterministic Engine](https://img.shields.io/badge/Math_Engine-Audited_Oracle-06b6d4.svg)](https://github.com/17shravani/Academic-Progress-Tracker)
