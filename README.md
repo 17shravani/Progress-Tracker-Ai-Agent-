@@ -1,6 +1,7 @@
 # EduPilot AI — Autonomous Academic Intelligence & Student Success Platform
 
-![Uploading image.png…]()
+<img width="1522" height="767" alt="image" src="https://github.com/user-attachments/assets/2a0d8e25-5779-428f-bfc7-48d1ac0fc806" />
+
 
 
 [![EduPilot AI](https://img.shields.io/badge/EduPilot-v2.4_Enterprise-6366f1.svg)](https://github.com/17shravani/Academic-Progress-Tracker)
